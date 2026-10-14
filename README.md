@@ -14,6 +14,7 @@
 | Арт-движения | Bauhaus, Art Deco, Art Nouveau, Constructivism, Mid-century Modern, Psychedelic, Collage / Zine, Hand-drawn, Risograph |
 | 3D и движение | Immersive 3D, Isometric, Scrollytelling / Parallax, Kinetic Typography, Spatial UI |
 | Органика и цвет | Organic / Blob, Duotone, Grainy Gradients |
+| Гибриды | Swiss Punk, Bento Glass, Neo-Brutal Y2K, Editorial Grain, Terminal SaaS, Riso Collage, Aurora Glass, Isometric Clay |
 
 ## Как пользоваться
 
